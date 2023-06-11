@@ -1,0 +1,14 @@
+.header {
+    background-color: powderblue;
+    padding: 1.5rem 0;
+}
+
+.header a {
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 1.5rem;
+}
+
+.header a:last-child {
+    margin: 0;
+}
